@@ -1,1 +1,1 @@
-fun main(args: Array<String>) = println("Hello World from 1C kotlin backend course!")
+fun main() = println("Hello World from 1C kotlin backend course!")
